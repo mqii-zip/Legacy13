@@ -1,4 +1,5 @@
 <img width="1536" height="1024" alt="9700" src="https://github.com/user-attachments/assets/4690c063-c4d3-4605-a7d7-1760c990e69e" />
+
 # Legacy13
 
 Legacy13 is an experimental low-level research and reverse engineering project focused on exploring the possibility of bringing iOS 13 compatibility to the iPhone 6 (A8), a device officially unsupported beyond iOS 12.5.x.
